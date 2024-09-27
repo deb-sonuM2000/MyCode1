@@ -3,5 +3,5 @@ let a=10
 let b=20
 console.log(a+b)
 setTimeout(()=>{
-          console.log('Hello Git & GitHub')
+          console.log('Hello Git & GitHub and code')
 },3000)
